@@ -8,7 +8,7 @@ version '1.0-SNAPSHOT'
 repositories {
     mavenCentral()
     maven {
-//        url 'https://repo url'
+        url 'https://hub.spigotmcwigglebutt.org/nexus/content/repositories/snapshots/'
     }
 }
 
